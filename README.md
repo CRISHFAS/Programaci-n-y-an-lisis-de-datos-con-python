@@ -127,11 +127,21 @@ Para comenzar a trabajar con Python, necesitamos iniciar un programa que interpr
 Un cuaderno Jupyter Notebook ofrece una interfaz basada en navegador para trabajar con Python. Si instalaste Anaconda, puedes iniciar un cuaderno de dos maneras:
 
 - **Navegador Anaconda**
-  - Inicia Anaconda Navigator. Es posible que te pregunte si deseas enviar información de uso anónima a los desarrolladores de Anaconda: elige tu opción y haz clic en el botón "Aceptar y no mostrar nuevamente".
+  - Inicia Anaconda Navigator. Es posible que te pregunte si deseas enviar información de uso anónima a los desarrolladores de Anaconda:
+![image](https://github.com/user-attachments/assets/d01275d1-9b7f-47fd-9826-32165575505f)  - elige tu opción y haz clic en el botón "Aceptar y no mostrar nuevamente".
+
   - Busca la pestaña “Notebook” y haz clic en el botón “Iniciar”.
+
+    ![image](https://github.com/user-attachments/assets/53348399-ecce-4770-b7f9-057aad161e51)
+
   - Anaconda abrirá una nueva ventana o pestaña del navegador con un Panel de Notebook que te mostrará el contenido de tu carpeta de Inicio (o Usuario).
   - Navega hasta el directorio `data` haciendo clic en los nombres de directorio que conducen a él: Escritorio, swc-python, luego `data`.
+  
+![image](https://github.com/user-attachments/assets/94a4ebe8-5653-4bdc-95fb-af8d99204255)
+
   - Inicia el cuaderno haciendo clic en el botón “Nuevo” y luego seleccionando “Python 3”.
+
+    ![image](https://github.com/user-attachments/assets/2f654d41-e0d7-4435-8ffc-8b0584375332)
 
 - **Línea de comandos (Terminal)**
   1. Navega hasta el directorio `data`:
