@@ -14,6 +14,9 @@ Para comprobar la eficacia del tratamiento nos gustaría:
 - Calcular la inflamación promedio por día en todos los pacientes.
 - Graficar el resultado para discutirlo y compartirlo con sus colegas.
 
+![image](https://github.com/user-attachments/assets/ce2439ce-1abc-4b7f-b58f-0524c3d299d8)
+
+
 El diagrama de flujo de tres pasos muestra los registros de datos de inflamación de los pacientes que pasan al paso de Análisis, donde se genera un mapa de calor de los datos proporcionados y pasa al paso de Conclusión que plantea la pregunta: ¿Cómo afecta la medicación a los pacientes?
 
 ## Formato de Datos
